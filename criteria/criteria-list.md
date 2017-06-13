@@ -4,15 +4,28 @@ Cagebot is a relatively new programmable robot that is capable of moving and rec
 
 ## Criteria
 #### Modell
-* [ ] Eignung der Größe für Schulen und Universitäten
-* [ ] Eignung des Bauvorgangs für Schulen und Universitäten
-* [ ] Eignung der Größe für Wettbewerbe
-* [ ] Eignung der Stabilität für Wettbewerbe
-* [ ] Eignung der Sensoren für Wettbewerbe
-* [ ] Eignung des Motors für Wettbewerbe
+* Ist der Preis des Modells für Gruppenprojekte an Schulen zumutbar?
+* Ist die Größe des Modells für SchülerInnen-Projekte geeignet?
+* Ist die Konstruktion des Roboters zeit- sowie ressourcenmäßig für Schulen geeignet?
+* Können die SchülerInnen bei der Ausführung dieser Gruppenprojekte dazulernen?
+* Haben die SchülerInnen das Wissen, den Roboter überhaupt zu programmieren?
+* Ist der Preis des Modells für Gruppenprojekte an Universitäten zumutbar?
+* Ist die Größe des Modells für StudentInnen-Projekte geeignet?
+* Ist die Konstruktion des Roboters zeit- sowie ressourcenmäßig für Universitäten geeignet?
+* Können die StudentInnen bei der Ausführung dieser Gruppenprojekte dazulernen?
+* Haben die StudentInnen das Wissen, den Roboter überhaupt zu programmieren?
 
 #### Hardware & Software
-* [ ] Größe der Speichereinheit und Zugriff darauf
-* [ ] Existenz von Tools und Bibliotheken
-* [ ] Existenz von Kommunikationstools
-* [ ] Transfer des Programmcodes & anderen Daten
+* Ist die Komplexität des CControl-Tools SchülerInnen zumutbar?
+* Eignet sich der WIP-Code-Editor für SchülerInnen-Projekte?
+* Ist die Komplexität des CControl-Tools StudentInnen zumutbar?
+* Eignet sich der WIP-Code-Editor für StudentInnen-Projekte?
+* Existieren gut benutzbare Programmierbibliotheken für den Roboter?
+
+#### Manuals
+* Ist die Bauanleitung verständlich und nachvollziehbar?
+* Ist die Bauanleitung gut strukturiert?
+* Hat die Bauanleitung Grafiken, die den Konstruktionsprozess untermalen?
+* Ist das CControl-Manual verständlich, vollständig und nachvollziehbar?
+* Ist das CControl-Manual gut strukturiert?
+* Hat das CControl-Manuel Grafiken, die gewisse Schritte vereinfachen?
